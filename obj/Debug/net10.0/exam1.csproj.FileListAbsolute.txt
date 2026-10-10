@@ -12,3 +12,4 @@ C:\Users\user\Desktop\new c#\exam1\obj\Debug\net10.0\refint\exam1.dll
 C:\Users\user\Desktop\new c#\exam1\obj\Debug\net10.0\exam1.pdb
 C:\Users\user\Desktop\new c#\exam1\obj\Debug\net10.0\exam1.genruntimeconfig.cache
 C:\Users\user\Desktop\new c#\exam1\obj\Debug\net10.0\ref\exam1.dll
+C:\Users\user\Desktop\new c#\exam1\obj\Debug\net10.0\exam1.sourcelink.json

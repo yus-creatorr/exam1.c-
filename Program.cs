@@ -157,4 +157,16 @@
 // }
 // System.Console.WriteLine(SumDigit(a));
 
-// task 8
+// // Task 8
+// System.Console.Write("Input Text: ");
+// string a=Console.ReadLine();
+// System.Console.Write("Input number: ");
+// int b=Convert.ToInt32(Console.ReadLine());
+
+// void Rep(string a, int b)
+// {
+//     if(b<=0) return;
+//     System.Console.Write(a);
+//     Rep(a, b-1);
+// }
+// Rep(a, b);
